@@ -33,3 +33,6 @@
     ]
 }
 ```
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-olegonc-blue)](https://www.linkedin.com/in/olegonc)
+[![Twitter](https://img.shields.io/badge/Twitter-__olegon-blue)](https://twitter.com/_olegon)
