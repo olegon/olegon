@@ -1,7 +1,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-olegonc-blue)](https://www.linkedin.com/in/olegonc)
 [![Twitter](https://img.shields.io/badge/Twitter-__olegon-blue)](https://twitter.com/_olegon)
 
-<a href="https://github.com/olegon">
+<div align="left">
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=olegon&show_icons=true&theme=dark"
       media="(prefers-color-scheme: dark)" />
@@ -9,8 +9,9 @@
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
     <img src="https://github-readme-stats.vercel.app/api?username=olegon&show_icons=true" />
   </picture>
-</a>
-<a href="https://github.com/olegon">
+</div>
+
+<div align="left">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api/top-langs?username=olegon&layout=compact&langs_count=8&theme=dark"
@@ -20,7 +21,7 @@
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs?username=olegon&layout=compact&langs_count=8" />
   </picture>
-</a>
+</div>
 
 ```json
 {
