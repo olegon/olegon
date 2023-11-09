@@ -1,6 +1,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-olegonc-blue)](https://www.linkedin.com/in/olegonc)
 [![Twitter](https://img.shields.io/badge/Twitter-__olegon-blue)](https://twitter.com/_olegon)
 
+<a href="https://github.com/olegon">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=olegon" />
+</a>
+<a href="https://github.com/olegon">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=olegon&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ```json
 {
