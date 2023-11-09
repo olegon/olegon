@@ -2,7 +2,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-__olegon-blue)](https://twitter.com/_olegon)
 
 <div>
-  <a href="https://github.com/olegon">
+  <span>
     <picture>
       <source srcset="https://github-readme-stats.vercel.app/api?username=olegon&show_icons=true&theme=dark"
         media="(prefers-color-scheme: dark)" />
@@ -10,9 +10,9 @@
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=olegon&show_icons=true" />
     </picture>
-  </a>
+  </span>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/olegon">
+  <span>
     <picture>
       <source
         srcset="https://github-readme-stats.vercel.app/api/top-langs?username=olegon&layout=compact&langs_count=8&card_width=320&theme=dark"
@@ -23,7 +23,7 @@
       <img height=200 align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=olegon&layout=compact&langs_count=8&card_width=320" />
     </picture>
-  </a>
+  </span>
 </div>
 
 <br />
