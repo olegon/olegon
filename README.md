@@ -27,45 +27,18 @@
 </div>
 
 <br />
-<br />
+
+> “Programs must be written for people to read, and only incidentally for machines to execute.”  
+> — Abelson & Sussman
 
 # About me
 
-I'm Leandro Gonçalves, a passionate software engineer with 10+ years and of experience that cares about simplicity, agile methods and customer experience. As staff engineer, I'm leading cloud-first applications, system design analysis and elevating my team's standards.
+I'm Leandro Gonçalves de Oliveira, a passionate software engineer with 10+ years and of experience that cares about simplicity, agile methods, customer experience and code quality. As staff engineer, I design and lead cloud-first platforms and backend systems that operate at scale. I help teams deliver reliable, maintainable software through clear architecture, pragmatic processes, and sustained technical mentorship.
 
+**Focus areas** 🔧
 
-```json
-{
-    "name": "Leandro Gonçalves de Oliveira",
-    "social_media": {
-        "linked_in": "https://www.linkedin.com/in/olegonc",
-        "twitter": "https://twitter.com/_olegon"
-    },
-    "job": {
-        "title": "Software Engineer",
-        "company_name": "Iti (Itaú)"
-    },
-    "main_interests": [
-        "cloud native applications",
-        "infrastructure as code",
-        "algorithms & data structures",
-        "functional programming",
-        "agile development",
-        "backend development"
-    ],
-    "favorite_quotes": [
-        {
-            "quote": "Programs must be written for people to read, and only incidentally for machines to execute.",
-            "author": "Abelson & Sussman"
-        },
-        {
-            "quote": "Great software is not built by great programmers. It's built by great teams." ,
-            "author": "@mpj"
-        },
-        {
-            "quote": "Computer science is no more about computers than astronomy is about telescopes." ,
-            "author": "Edsger W. Dijkstra"
-        }
-    ]
-}
-```
+- Cloud-native architectures & distributed systems
+- Infrastructure as Code & platform engineering
+- System design, scalability & reliability
+- Observability, performance & SRE practices
+- Mentorship, technical leadership & team enablement
