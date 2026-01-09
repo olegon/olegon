@@ -1,6 +1,33 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-olegonc-blue)](https://www.linkedin.com/in/olegonc)
 [![Twitter](https://img.shields.io/badge/Twitter-__olegon-blue)](https://twitter.com/_olegon)
 
+<div>
+  <span>
+    <picture>
+      <source srcset="https://github-readme-stats.vercel.app/api?username=olegon&show_icons=true&theme=dark"
+        media="(prefers-color-scheme: dark)" />
+      <source srcset="https://github-readme-stats.vercel.app/api?username=olegon&show_icons=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=olegon&show_icons=true" />
+    </picture>
+  </span>
+  &nbsp;&nbsp;&nbsp;
+  <span>
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=olegon&layout=compact&langs_count=8&card_width=320&theme=dark"
+        media="(prefers-color-scheme: dark)" />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=olegon&layout=compact&langs_count=8&card_width=320"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+      <img height=200 align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=olegon&layout=compact&langs_count=8&card_width=320" />
+    </picture>
+  </span>
+</div>
+
+<br />
+<br />
 
 # About me
 
