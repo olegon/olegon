@@ -29,16 +29,18 @@
 <br />
 
 > “Programs must be written for people to read, and only incidentally for machines to execute.”  
-> — Abelson & Sussman
+> — Abelson & Sussman 💡
 
 # About me
 
-I'm Leandro Gonçalves de Oliveira, a passionate software engineer with 10+ years and of experience that cares about simplicity, agile methods, customer experience and code quality. As staff engineer, I design and lead cloud-first platforms and backend systems that operate at scale. I help teams deliver reliable, maintainable software through clear architecture, pragmatic processes, and sustained technical mentorship.
+I'm Leandro Gonçalves de Oliveira, a passionate software engineer with 10+ years and of experience that cares about simplicity, agile methods, customer experience and code quality.
+
+As staff engineer, I design and lead cloud-first platforms and backend systems that operate at scale. I help teams deliver reliable, maintainable software through clear architecture, pragmatic processes, and sustained technical mentorship. ✨
 
 **Focus areas** 🔧
 
-- Cloud-native architectures & distributed systems
-- Infrastructure as Code & platform engineering
-- System design, scalability & reliability
-- Observability, performance & SRE practices
-- Mentorship, technical leadership & team enablement
+- ☁️ Cloud-native architectures & distributed systems
+- 🛠️ Infrastructure as Code & platform engineering
+- 🏗️ System design, scalability & reliability
+- 📈 Observability, performance & SRE practices
+- 🤝 Mentorship, technical leadership & team enablement
