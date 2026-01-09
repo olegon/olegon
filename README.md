@@ -2,6 +2,11 @@
 [![Twitter](https://img.shields.io/badge/Twitter-__olegon-blue)](https://twitter.com/_olegon)
 
 
+# About me
+
+I'm Leandro Gonçalves, a passionate software engineer with 10+ years and of experience that cares about simplicity, agile methods and customer experience. As staff engineer, I'm leading cloud-first applications, system design analysis and elevating my team's standards.
+
+
 ```json
 {
     "name": "Leandro Gonçalves de Oliveira",
