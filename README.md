@@ -1,23 +1,25 @@
 <h1 align="center">Hi, I'm Leandro Gonçalves 👋</h1>
 <p align="center">
   <b>Staff Engineer @ Itaú Unibanco</b> · São Paulo, Brazil 🇧🇷<br />
-  Building reliable, cloud-native banking platforms at scale.
+</p>
+<p align="center">
+  <i>Architecting modern financial services, cloud-native banking platforms, and AI-driven engineering workflows.</i>
 </p>
 
 <br />
 
-## 👨‍💻 About me
+#### 👨‍💻 About me
 
-I'm a software engineer with **10+ years of experience** who cares about best practices, agile methods,
-automated testing, observability, simplicity and DevOps principles.
+I'm a software engineer with 16+ years of experience focused on distributed systems, high-availability architectures, observability, and pragmatic engineering leadership.
 
-Today I work with **microservices in the banking sector**, dealing with **high-availability architectures**,
-**infrastructure as code** and **cloud-native applications**. As a Staff Engineer, I design and lead systems
-that operate at scale, and I help teams deliver maintainable software through clear architecture, pragmatic
-processes and sustained technical mentorship. ✨
+Currently, as a **Principal Engineer**, my primary focus is on building a modernized financial services and advancing GenAI-assisted software development methodologies. Previously as a Staff Engineer, I led critical initiatives across the *iti* and Itaú ecosystems—including the online migration of 12M customers in under 15 seconds, Global Accounts (USD/EUR), Youth Accounts, and high-scale savings products.
 
-In my spare time I study algorithms, observability and architecture — always looking for better, more
-efficient ways to do my work.
+#### 🎯 Current Focus Areas
+- 🏦 **Core Banking:** High-throughput, fault-tolerant financial systems and saga orchestration
+- 🤖 **GenAI Engineering:** Spec-Driven Development (SDD), agentic workflows, and developer productivity
+- ☁️ **Cloud & FinOps:** Resilient AWS architectures, Infrastructure as Code, and cost efficiency at scale
+- 📈 **Observability & SRE:** Active monitoring, custom saga watchdogs, and incident response
+- 🤝 **Technical Leadership:** Cross-team architecture (SDRs) and engineering mentorship
 
 ## 💼 Experience
 
