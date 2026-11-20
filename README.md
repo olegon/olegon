@@ -23,15 +23,13 @@ Currently, as a **Principal Engineer**, my primary focus is on building a modern
 
 ## 💼 Experience
 
-- **Itaú Unibanco** — *Staff Engineer / Especialista* (Sep 2024 – Present) · *Tech Lead* (2021 – 2024) · *Software Engineer* (2019 – 2021)
-  <br />Working across the full lifecycle of the **iti** digital bank: payment accounts, automatic yield
-  (cutting **60%+ of operating costs**), the iti → Itaú app migration, savings & global/kids accounts,
-  open finance, PIX, fraud prevention and Bank-as-a-Service.
-- **Banco Safra** — *Software Developer* (2019): fully digital account onboarding, resilient async integrations, OpenShift.
-- **everis** — *Software Developer* (2018 – 2019): a configurable BPM script engine driven by NLP, at Itaú Unibanco.
-- **BEYOND Soluções** — *Software Developer* (2017 – 2018): low-latency trading tooling (Azure, MuleSoft, .NET, Node.js).
-- **Grupo Aduaneiras / Cenofisco / Lex** — *Web Developer* (2015 – 2017): institutional sites, content CMS, Apache Solr/Lucene search, SEO.
-- *Earlier:* G4 Contact Center, Tech For TI, Animatech and Oblivion (2010 – 2015) — web & desktop systems in C#/.NET.
+- **Itaú Unibanco** — *Staff Engineer* (Sep 2024 - Present) · *Tech Lead* (2022 – 2024) · *Software Engineer* (2019 – 2022)
+  <br />Architecting modernized financial services and driving GenAI-assisted engineering practices (SDD, BMAD, agentic workflows). Previously led cross-team architecture (SDRs) and critical initiatives across the **iti** and Itaú ecosystems: the online migration of **12M customers in under 15s**, automatic yield (**60%+ cost reduction**), Global (USD/EUR) & Youth accounts, Cofrinhos integrations, custom saga watchdogs, FinOps optimizations, PIX, Open Finance, and Bank-as-a-Service.
+- **Banco Safra** — *Software Developer* (2019): fully digital account onboarding, resilient async integrations, OpenShift[cite: 2, 3].
+- **everis** — *Software Developer* (2018 – 2019): a configurable BPM script engine driven by NLP, at Itaú Unibanco[cite: 3].
+- **BEYOND Soluções** — *Software Developer* (2017 – 2018): low-latency trading tooling (Azure, MuleSoft, .NET, Node.js)[cite: 3].
+- **Grupo Aduaneiras / Cenofisco / Lex** — *Web Developer* (2015 – 2017): institutional sites, content CMS, Apache Solr/Lucene search, SEO[cite: 3, 4].
+- *Earlier:* G4 Contact Center, Tech For TI, Animatech and Oblivion (2010 – 2015) — web & desktop systems in C#/.NET[cite: 4, 5].
 
 ## 🛠️ Tech stack
 
