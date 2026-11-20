@@ -8,13 +8,13 @@
 
 <br />
 
-#### 👨‍💻 About me
+## 👨‍💻 About me
 
 I'm a software engineer with 16+ years of experience focused on distributed systems, high-availability architectures, observability, and pragmatic engineering leadership.
 
-Currently, as a **Principal Engineer**, my primary focus is on building a modernized financial services and advancing GenAI-assisted software development methodologies. Previously as a Staff Engineer, I led critical initiatives across the *iti* and Itaú ecosystems—including the online migration of 12M customers in under 15 seconds, Global Accounts (USD/EUR), Youth Accounts, and high-scale savings products.
+Currently, as a **Staff Engineer**, my primary focus is on modernizing financial services and advancing GenAI-assisted software development methodologies (SDD, BMAD, and agentic tooling). I've led critical initiatives across the **iti** and Itaú ecosystems—including the online migration of 12M customers in under 15 seconds, Global Accounts (USD/EUR), Youth Accounts, and high-scale savings products.
 
-#### 🎯 Current Focus Areas
+### 🎯 Current Focus Areas
 - 🏦 **Core Banking:** High-throughput, fault-tolerant financial systems and saga orchestration
 - 🤖 **GenAI Engineering:** Spec-Driven Development (SDD), agentic workflows, and developer productivity
 - ☁️ **Cloud & FinOps:** Resilient AWS architectures, Infrastructure as Code, and cost efficiency at scale
@@ -23,13 +23,13 @@ Currently, as a **Principal Engineer**, my primary focus is on building a modern
 
 ## 💼 Experience
 
-- **Itaú Unibanco** — *Staff Engineer* (Sep 2024 - Present) · *Tech Lead* (2022 – 2024) · *Software Engineer* (2019 – 2022)
-  <br />Architecting modernized financial services and driving GenAI-assisted engineering practices (SDD, BMAD, agentic workflows). Previously led cross-team architecture (SDRs) and critical initiatives across the **iti** and Itaú ecosystems: the online migration of **12M customers in under 15s**, automatic yield (**60%+ cost reduction**), Global (USD/EUR) & Youth accounts, Cofrinhos integrations, custom saga watchdogs, FinOps optimizations, PIX, Open Finance, and Bank-as-a-Service.
-- **Banco Safra** — *Software Developer* (2019): fully digital account onboarding, resilient async integrations, OpenShift[cite: 2, 3].
-- **everis** — *Software Developer* (2018 – 2019): a configurable BPM script engine driven by NLP, at Itaú Unibanco[cite: 3].
-- **BEYOND Soluções** — *Software Developer* (2017 – 2018): low-latency trading tooling (Azure, MuleSoft, .NET, Node.js)[cite: 3].
-- **Grupo Aduaneiras / Cenofisco / Lex** — *Web Developer* (2015 – 2017): institutional sites, content CMS, Apache Solr/Lucene search, SEO[cite: 3, 4].
-- *Earlier:* G4 Contact Center, Tech For TI, Animatech and Oblivion (2010 – 2015) — web & desktop systems in C#/.NET[cite: 4, 5].
+- **Itaú Unibanco** — *Staff Engineer* (Sep 2024 – Present) · *Tech Lead* (2022 – 2024) · *Software Engineer* (2019 – 2022)
+  <br />Architecting modern financial services and driving GenAI-assisted engineering practices (SDD, BMAD, agentic workflows). Previously led cross-team architecture (SDRs) and critical initiatives across the **iti** and Itaú ecosystems: the online migration of **12M customers in under 15s**, automatic yield (**60%+ cost reduction**), Global (USD/EUR) & Youth accounts, Cofrinhos integrations, custom saga watchdogs, FinOps optimizations, PIX, Open Finance, and Bank-as-a-Service.
+- **Banco Safra** — *Software Developer* (2019): fully digital account onboarding, resilient async integrations, OpenShift.
+- **everis** — *Software Developer* (2018 – 2019): a configurable BPM script engine driven by NLP, at Itaú Unibanco.
+- **BEYOND Soluções** — *Software Developer* (2017 – 2018): low-latency trading tooling (Azure, MuleSoft, .NET, Node.js).
+- **Grupo Aduaneiras / Cenofisco / Lex** — *Web Developer* (2015 – 2017): institutional sites, content CMS, Apache Solr/Lucene search, SEO.
+- *Earlier:* G4 Contact Center, Tech For TI, Animatech and Oblivion (2010 – 2015) — web & desktop systems in C#/.NET.
 
 ## 🛠️ Tech stack
 
@@ -103,14 +103,6 @@ Currently, as a **Principal Engineer**, my primary focus is on building a modern
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
-
-## 🎯 Focus areas
-
-- ☁️ Cloud-native architectures & distributed systems
-- 🛠️ Infrastructure as Code & platform engineering
-- 🏗️ System design, scalability & reliability
-- 📈 Observability, performance & SRE practices
-- 🤝 Mentorship, technical leadership & team enablement
 
 ## 🏆 Honors
 
